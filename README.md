@@ -9,7 +9,7 @@ I'm a passionate full-stack developer with a love for crafting innovative techno
 ### 💼 Technical Skills
 
 
-- **Front-end**: Javscript, React.js, Jquery, HTML, CSS, Bootstrap 
+- **Front-end**: Javscript, React, Angular, Jquery, HTML, CSS, Bootstrap 
 - **Back-end**:  Node.js, Express, Laravel, Codeigniter, .NET
 - **Databases**: MySQL, SQL Server, ORACLE, MongoDB, PostgreSQL
 - **Version Control**: Git, GitHub
